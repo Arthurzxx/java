@@ -1,0 +1,14 @@
+public static void main(String[] args) {
+
+    int num1 = 10;
+    int num2 = 30;
+    
+    if (num1>num2) {
+    System.out.println("O primeiro número é maior que o segundo");
+    } else
+        System.out.println ("O segundo número é maior que o primeiro");
+}
+    }
+    }
+}
+}
