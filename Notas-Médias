@@ -1,6 +1,14 @@
 public static void main(String[] args) {
+
         
-    int nota = 0;
+    int nota1 = 52;
+    int nota2 = 79;
+    int nota3 = 59;
+    int nota4 = 84;
+    int nota5 = 94; 
+    
+    int nota = (nota1 + nota2 + nota3 + nota4 + nota5) / 5;
+    
      if (nota <= 50) {
         System.out.println("Reprovado");
         
